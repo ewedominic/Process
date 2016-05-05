@@ -1,2 +1,2 @@
 # Process
-Getting the current running processes, pids and their location
+Basic way of getting the current running processes, pids and their location
